@@ -1,1 +1,2 @@
-version : 1.2
+
+Updated version : 1.0
